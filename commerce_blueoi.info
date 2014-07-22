@@ -1,0 +1,3 @@
+name = Commerce BlueOI
+description = Base module to configure Drupal Commerce
+core = 7.x

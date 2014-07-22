@@ -1,0 +1,7 @@
+<?php
+
+/**
+ * @file
+ *   Base module to configure drupal commerce (from commerce kickstart 7.x-1.x).
+ */
+
